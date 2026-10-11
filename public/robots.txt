@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sankaravignesh.netlify.app//sitemap.xml
